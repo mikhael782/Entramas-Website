@@ -1,0 +1,990 @@
+<div class="product_supercontainer">  
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_3M.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ABB.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Allen.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Ametek.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_armorgard.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ashcroft.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_badger.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_balluf.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_baumer.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_bently_nevada.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Birn.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_bosch.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_clipsal.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_cloverturbo.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_conax.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_corken.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_daido.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_DGSI.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_dwyer.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_dynapac.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Ebara.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ElringKlinger.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Emerson.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Endress.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_fanuc.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_farris.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Flowserve.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_foxboro.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_fpdiesel.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_FS.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Goulds.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_GR.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_grundfos.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_guth_ventile.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_hamworthy.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_holset.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Honeywell.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_hydac.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_IHI.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ingersoll.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_invincible valves.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ipd.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ixthus.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_izumi.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_kennametal.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Keyence.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_killark.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_knorr-bremse.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_kraus-naimer.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+    
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_kuka.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Leviton.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Liquid_Controls.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_mitsubishi.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Nok.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Parker.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_ProMinent.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_pulsafeeder.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Rexnord.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_rigman_suka_ngerickroll.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_riken.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Rocol.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_roctest.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Rosemount.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_rossmax.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_samson.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Sandvik.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_saveagle.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_schneider.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_slurryflex.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_slurryflo.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_spriano.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_spruh scher ablak-ablkan.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_swagelok.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Thermon.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_thiess.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_timken.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_tsi_alnor.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_turck.jpg">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_viking.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_vyc_industrial.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_west_rand_pump.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_woodward.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_xylem.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_yamatake.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_yokogawa.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_young_touchstone.png">
+      </div>
+      <div class="product_info_button">
+        <a>Products</a>
+      </div>
+    </div>
+
+    <h3 class=" product_margin_top">Our Valued Customer</h3>
+
+  <div class="product_supercontainer">  
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_asean.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_msm.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+    
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Jac Rijk Al Rushaid Co. Ltd.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_adaro.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_petrokimia.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_thiess.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_maersk.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_Agincourt.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+    
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_bumi_suksendo.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_batutua.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_itm.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_bayan_resources.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+
+    <div class="product_container">
+      <div class="product_img">
+        <img src="img/product_LRTJakarta.png">
+      </div>
+      <div class="product_info_button">
+        <a>Customer</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="table-responsive">
+    <table class="table table-hover">
+        <thead>
+          <tr style="text-align: center;">
+            <th scope="col">SOR Equipment</th>
+            <th scope="col">Tank Cleaning Equipment</th>
+          </tr>
+        </thead>
+        <tbody style="text-align: center;">
+          <tr>
+            <td>Decanter 20KL/Hour</td>
+            <td>High Pressure Waterjet</td>
+          </tr>
+          <tr>
+            <td>Decanter 30KL/Hour</td>
+            <td>Fire Pump</td>
+          </tr>
+          <tr>
+            <td>Decanter 50KL/Hour</td>
+            <td>Air Lamp</td>
+          </tr>
+          <tr>
+            <td>Strainer</td>
+            <td>Blower Hornet</td>
+          </tr>
+          <tr>
+            <td>Thickener & Storage Tank</td>
+            <td>Air Manipol</td>
+          </tr>
+          <tr>
+            <td>Disk Separator Include Mixer and
+              Filter
+            </td>
+            <td>Compressor</td>
+          </tr>
+          <tr>
+            <td>Steam Pump, Centrifugal Pump</td>
+            <td>Air Blower</td>
+          </tr>
+          <tr>
+            <td>Power Jet Nozzle</td>
+            <td>Diagram Pump</td>
+          </tr>
+          <tr>
+            <td>Heat Exchanger</td>
+            <td>Breathing Apparatus</td>
+          </tr>
+          <tr>
+            <td>Steam Pump (Nawiwa Pump)</td>
+            <td>Gas Detector</td>
+          </tr>
+          <tr>
+            <td>Gear Pump</td>
+            <td>Air Winch</td>
+          </tr>
+          <tr>
+            <td>Air Compressor</td>
+            <td>Etc.</td>
+          </tr>
+          <tr>
+            <td>Wilden Pump</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Generator 350 KVA</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Boiler 2 Ton</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Panel (Container Control Room)</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Product Tank</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Explosion Proof Lamp</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Air Manipol</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Etc.</td>
+            <td></td>
+          </tr>
+        </tbody>
+    </table>
+  </div>

@@ -1,0 +1,33 @@
+ini Permintaan saat meeting kemarin klo ada yang belum jelas tanyakan lagi ya.
+
+About us jangan ditampilkan (sampai diklik) -> Masuk ke landing baru.
+Menu staf dan company dihilangkan. ✔
+
+Dibawah global sourcing yang kuning DIHILANGKAN (It's simple - if you....)
+
+Navbar -> Di bawah Entramas PT ENTRA Mas blablabla, Navbar di tinggi.
+
+Times New Roman untuk footer Entramas International
+
+Office Phone Number -> WA/Mobile ✔
+
+Gambar logo telepon -> WA ✔
+
+"Global Sourcing made simple"  ✔
+
+Cuma "YOU DON"T HAVE TO WORRY ABOUT A THING", yang it's simple.... care of everything HAPUS!
+
+Hanya logo linkedin, twitter, instagram HAPUS! ✔
+
+Dibawah Entramas International
+Ditambah oversea office adress
+UK : Insert address
+US : Insert address
+
+Tambahan page product (ketika click product), productnya dibuat susunan static.
+
+Our Product klik -> Page product static isinya product semua
+
+Our Valued Customer -> page our valued customer static
+
+Distributorship diatas our product ✔
